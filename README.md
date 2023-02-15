@@ -10,7 +10,7 @@
 #### Informa a localização conforme coordenadas
 ### Callout
 #### Janela de detalhes do usuário; 
-### WebView
+### WebView (janela de Perfil)
 #### Neste caso, GitHub.
 
 ### WebSocket
