@@ -18,5 +18,5 @@
 ##### da existência do mesmo, caso corresponda ao raio de busca de 5km e cuja tecnologia seja a procurada pelo usuário local
 
 
-![mapa_mobile](https://github.com/JsnEvt/DevRadar/blob/main/img/mapa240x520.png)
-![perfil_mobile](https://github.com/JsnEvt/DevRadar/blob/main/img/perfil.png)
+![mapa_mobile](https://github.com/JsnEvt/DevRadar/blob/main/img/mapa240x520.png) ![mapa_mobile](https://github.com/JsnEvt/DevRadar/blob/main/img/mapa240x520.png)
+
