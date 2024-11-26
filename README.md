@@ -7,7 +7,7 @@
   <a href="#dev-radar">Dev Radar</a> •
   <a href="#instalação">Instalação</a> •
   <a href="#tecnologias">Tecnologias</a> •
-  <a href="#autor">Autor</a> •
+  <a href="#autor">Autor</a>
 </p>
 
 Projeto desenvolvido durante a <strong>Semana OmniStack 10</strong>, evento criado pela <strong><a href="https://rocketseat.com.br/">Rocketseat</a></strong>.  
